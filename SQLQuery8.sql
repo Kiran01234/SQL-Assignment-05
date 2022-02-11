@@ -1,0 +1,5 @@
+SELECT * FROM worker
+
+SELECT *
+FROM worker
+WHERE NOT FIRST_NAME = 'VIPUL' AND NOT FIRST_NAME ='Satish'
